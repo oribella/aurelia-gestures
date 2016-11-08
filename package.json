@@ -23,6 +23,9 @@
     "test:watch": "mocha test --require ./test/global.js --compilers js:babel/register -w",
     "lint": "eslint src"
   },
+  "dependencies": {
+    "oribella-default-gestures": "0.5.4"
+  },
   "jspm": {
     "main": "index",
     "format": "amd",
@@ -30,7 +33,7 @@
       "lib": "dist/amd"
     },
     "dependencies": {
-      "oribella-default-gestures": "github:oribella/default-gestures@^0.2.0"
+      "oribella-default-gestures": "github:oribella/default-gestures@^0.5.4"
     }
   },
   "devDependencies": {
