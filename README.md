@@ -1,3 +1,5 @@
+# Moved to [oribella](https://github.com/oribella/oribella)
+
 # oribella-aurelia-gestures
 
 [![npm version](https://badge.fury.io/js/oribella-aurelia-gestures.svg)](https://badge.fury.io/js/oribella-aurelia-gestures)
